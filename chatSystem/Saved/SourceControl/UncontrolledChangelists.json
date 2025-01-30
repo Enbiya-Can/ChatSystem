@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/esc/Desktop/chatSystem/Content/UI/WBP_MainUI.uasset",
+				"C:/Users/esc/Desktop/chatSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/chatSystem/Content/chatSystem.umap",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/chatSystem/Content/Widget/WB_ChatMessage.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/chatSystem/Content/Widget/WB_ChatPanel.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/chatSystem/Content/ThirdPerson/Blueprints/BP_PC_Chat.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/chatSystem/Content/ThirdPerson/Blueprints/BP_GM_Chat.uasset",
+				"C:/Users/cyberdeck/Documents/Unreal Projects/chatSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
